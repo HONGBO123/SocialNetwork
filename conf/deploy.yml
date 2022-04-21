@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.128.0.2:9200"
+  username: "hongbo"
+  password: "123456"
+
+gcs:
+  bucket: "hongbo-bucket"
+
+token:
+  secret: "secret"
